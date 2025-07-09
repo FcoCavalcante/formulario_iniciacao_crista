@@ -7,17 +7,15 @@ Você pode visualizar o formulário publicado via GitHub Pages em:
 🔗 https://fcocavalcante.github.io/formulario_iniciacao_crista/
 
 ## ✨ Funcionalidades
-Formulário interativo para agendamento
-Estimativa automática de valor
-Validação de dados
-Layout responsivo
+- Formulário interativo para agendamento
+- Estimativa automática de valor
+- Validação de dados
+- Layout responsivo
 
 ## 🛠 Tecnologias Utilizadas
-HTML5
-
-CSS3
-
-JavaScript
+- HTML5
+- CSS3
+- JavaScript
 
 ## 🔒 Licença
 Copyright (c) 2025 Francisco Cavalcante
