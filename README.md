@@ -1,5 +1,5 @@
 ## Formulário para solicitação de pergaminhos da benção papal para sacramentos da iniciação cristã
-Este projeto é um site simples desenvolvido em HTML, CSS e JavaScript para facilitar o agendamento e cálculo estimado de valores para solicitação de pergaminhos da benção papal. O formulário coleta informações básicas e fornece uma estimativa de custo com base nas escolhas do usuário.
+Este projeto é um formulário simples desenvolvido em HTML, CSS e JavaScript para facilitar o agendamento e cálculo estimado de valores para solicitação de pergaminhos da benção papal. O formulário coleta informações básicas e fornece uma estimativa de custo com base nas escolhas do usuário.
 
 ## 🌐 Acesse o formulário
 Você pode visualizar o formulário publicado via GitHub Pages em:
